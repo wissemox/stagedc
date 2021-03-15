@@ -1,0 +1,279 @@
+.From-flex-box {
+  flex-direction: column;
+}
+.From-flex-box {
+  background-image: url("Sans-titre-2.jpg");
+  height: 700px;
+}
+.Login {
+  margin-top: 150px;
+}
+.Divad {
+  background-color: rgb(243, 72, 81);
+  height: 100px;
+  color: rgb(243, 72, 81);
+
+}
+.Dazad {
+  background-color: hsl(247, 86%, 39%);
+  height: 70px;
+  color: #1cc7cf;
+}
+.Login {
+  background-color: white;
+  margin-left: 650px;
+  height: 400px;
+  width: 300px;
+  opacity: 90%;
+}
+.Login input {
+  border: solid 1px rgb(243, 72, 81) ;
+  margin-top: 20px;
+  box-shadow: 2px 2px 10px #4f4f4f;
+}
+.Login button {
+  margin-top: 30px;
+ background-color: rgb(243, 72, 81);
+}
+.Login {
+  box-shadow: 5px 10px 18px #4f4f4f;
+  margin-top: 50px;
+}
+.Background {
+  margin-top: 30px;
+}
+.Dazd {
+  background-color: hsl(247, 86%, 39%);
+  height: 50px;
+  margin-bottom: 50px;
+  color: hsl(247, 86%, 39%);
+}
+.Morgfd {
+  padding-top: 20px;
+  padding-left: 60px;
+  display: flex;
+  padding-bottom: 50px;
+}
+.Morgfd h1 {
+  font-size: 20px;
+}
+.Morgfd p {
+  padding-left: 100px;
+}
+.Morgfd {
+  margin-left: 500px;
+}
+.Morgfd p {
+  font-size: 12px;
+  padding-top: 5px;
+  width: 100px;
+  padding-left: 10px;
+  margin-left: 20px;
+}
+
+.Morgfd h1 {
+  margin-right: 50px;
+}
+.B {
+  margin-left: 800px;
+}
+.BackgroundBlue {
+  padding-top: 20px;
+  margin-top: 20px;
+  background-color: hsl(247, 86%, 39%);
+  height: 400px;
+  background-image: url("45d.jpg");
+  width: 1500px;
+}
+.Buttuon {
+  border: none;
+  height: 40px;
+  width: 150px;
+  background-color: #2c2d2c;
+  color: white;
+}
+.BackgroundBlue {
+  margin-top: 50px;
+}
+.B {
+  margin-top: 80px;
+}
+.B h1 {
+  padding-bottom: 20px;
+}
+.B p {
+  padding-bottom: 20px;
+}
+.Chapter2 {
+  margin-top: 50px;
+}
+.Chapter2 h4 {
+  padding-bottom: 20px;
+  color: rgb(35, 23, 23)
+}
+.Morgfd {
+  margin-top: 20px;
+  margin-left: 350px;
+}
+.Madzf {
+  display: flex;
+  margin-left: 400px;
+}
+.Morge {
+  background-image: url("Ahad.jpg");
+ 
+  height: 500px;
+  padding-top: 50px;
+}
+.Morge02 {
+  padding-top: 80px;
+}
+.Morge p {
+  color: white;
+}
+.Morge h1 {
+  color: rgb(243, 72, 81);
+}
+.Morge button {
+  background-color: rgb(243, 72, 81);
+}
+.Chapter2 img {
+  margin-top: 35px;
+  width: 80px;
+}
+.Das {
+  display: flex;
+  margin-left: 540px;
+}
+.Das img {
+  margin-left: 50px;
+}
+.adqz {
+  display: flex;
+  margin-left: 450px;
+  margin-top: 20px;
+}
+.adqz p {
+  margin-left: 50px;
+  color: rgb(243, 72, 81);
+  background-color: rgb(56, 56, 56);
+  width: 150px;
+}
+.adqz p {
+  font-weight: 500;
+}
+.Das img {
+  margin-left: 120px;
+}
+.Das {
+  margin-left: 410px;
+}
+.Das {
+  margin-top: 30px;
+}
+.Dazam {
+  margin-top: 66px;
+  background-color: #474747;
+
+  height: 250px;
+}
+.Dazam h2 {
+  padding-top: 50px;
+  color: white;
+}
+.AS{
+  margin-right: 80px;
+}
+.BackgroundAll{
+  background-color: rgb(243, 72, 81);
+  height: 1500px;
+}
+.NavbAR005{
+  background-color: hsl(247, 85%, 52%);
+  color: white;
+  height: 100px;
+  padding-top: 20px;
+  
+}
+.MapUser{
+  margin-top: 50px;
+  display: flex;
+}
+.MapUser img{
+  width: 150px;
+  border-radius: 50px;
+}
+.MapUser p{
+  margin-left: 20px;
+  width: 150px;
+
+}
+.MapUser button { 
+  border: none;
+  background-color: none;
+  background-color: hsl(247, 85%, 61%);
+  width: 150px;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 30px;
+  color: white;
+  margin-left: 300px;
+
+}
+.MapUser p{
+  padding-left:200px ;
+  width: 150px;
+}
+.MapUser img{
+  margin-left: 350px;
+}
+.azdwla{
+  border: none;
+  background-color: none;
+  background-color: rgb(243, 72, 81);
+  border-radius: 50px;
+  color: white;
+}
+.zda{
+  margin-top: 50px;
+  background-color:hsl(247, 84%, 53%) ;
+  height: 120px;
+  padding-top: 30px;
+}
+.qdwa{
+  display: flex;
+  margin-top: 80px;
+  width: 150px;
+  
+}
+.qdwa p{
+  padding-left: 250px;
+  width: 150px;
+}
+.qdwa img{
+  margin-left: 250px
+  ;
+}
+.qdwa button{
+  border: none;
+  background-color:hsl(247, 84%, 53%) ;
+  color: white;
+  border-radius: 50px;
+  width: 150px;
+  height: 50px;
+  margin-left: 700px;
+}
+.Das{
+margin-right: 150px;
+ 
+}
+.Chapter2 h4{
+  padding-right: 50px;
+}
+.Chapter2 h6{
+  margin-right: 50px;
+}
+.adazdaf{
+  display: flex;
+  flex-direction: column;
+}

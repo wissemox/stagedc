@@ -1,0 +1,284 @@
+.navbarar0{
+    display: flex;
+    
+}
+.Navbar{
+    background-color: #0c025b;
+   
+    width:80px;
+
+}
+.Navbar02{
+width: 1500px;
+
+}
+.Navbar003{
+    border-bottom: solid 1px #bbbbbb;
+    opacity: 60%;
+    display: flex;
+}
+.Navbar003 p{
+    opacity: 100%;
+    margin-top: 30px;
+   
+    margin-left: 20px;
+}
+.Navbar02 h6{
+ margin-top: 33px;
+ padding-left: 20px;
+}
+.Flexbox{
+    display: flex;
+    margin-left: 1000px;
+}
+
+.WelcoemBack{
+    margin-top: 60px;
+    margin-left: 30px;
+    color: #4e4e4e;
+}
+
+.WelcomeBack02 p{
+    padding-right:780px;
+    margin-top: 20px;
+    
+    
+    
+}
+.WelcoemBack{
+    border: solid 1px #bbbbbb;
+    border-radius: 11px;
+    width: 1200px;
+    height: 250px;
+    padding-top: 20px;
+  
+}
+.Buttuon02 button{
+    margin-right:980px;
+    border: none;
+    background-color: #1b09a0;
+    border-radius: 12px;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-size: 9px;
+}
+
+
+.Buttoda{
+    display: flex;
+}
+.Buttoda button{
+    border: none;
+    background-color: #1b09a0;
+    border-radius: 12px;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-size: 9px;
+}
+
+.WelcoemBack p{
+    padding-right: 780px;
+    margin-top: 20px;
+}
+
+
+
+.WelcoemBack03{
+    width: 250px;
+    height: 90px;
+    
+}
+.WelcomeBack03 img {
+
+}
+.WelcomeBack03{
+    height: 80px;
+    display: flex;
+}
+.Igm img{
+    width: 300px;
+    margin-left: 400px;
+}
+.WelcomeBack03 h3{
+    margin-top: 40px;
+   padding-left:56px;
+   font-size: 20px;
+   padding-top: 20px;
+ 
+}
+.ProductyouAdd{
+    border: solid 1px #bbbbbb ;
+    border-radius: 12px;
+    width: 450px;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.ProductALL{
+    display: flex;
+}
+.ProductALL .Profile{
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 700px;
+    border-radius: 18px;
+    border: solid 1px #bbbbbb;
+    height: 400px;
+}
+.Navbar02{
+    margin-left: 70px;
+}
+.ProfileD img{
+    width: 100px;
+    border-radius: 50px;
+}
+.Dazer img{
+margin-left: 50px;
+}
+.Dazer p{
+    padding-left: 40px;
+    padding-top: 20px;
+    font-size: 18px;
+}
+.Dazerurg { 
+    display: flex;
+    margin-top: 40px;
+    margin-left: 60px;
+
+}
+.Dazer02{
+    margin-left: 50px;
+}
+.Dazer02 img{
+    margin-left: 50px;
+    width: 60px;
+   
+}
+.Dazer02 p{
+    padding-left: 40px;
+    padding-top: 20px;
+    font-size: 18px;
+}
+.Rank{
+   margin-left: 50px;
+   height: 50px;
+}
+.Rank img{
+    margin-bottom: 20px;
+    margin-left: 50px;
+
+    height: 100px;
+}
+.Rank p{
+    padding-left: 40px;
+    padding-left: 50px;
+    font-size: 18px;
+}
+.addzq  {
+    border: none;
+    background-color: hsl(247, 86%, 39%);
+    border-radius: 18px;
+    width: 250px;
+    margin-top: 20px;
+}
+.addzq p{
+    color: white;
+    padding-top: 5px;
+}
+.Navbar{
+    color: white;
+}
+.Navbar p{
+    color: white;
+    padding-top: 20px;
+}
+.Navbar img{
+    width: 40px;
+    margin-top: 20px;
+}
+.Navbar img:hover{
+    background-color: #929292;
+    border-radius: 50px;
+    opacity: 80%;
+}
+.Flex-box{
+    
+    display: flex;
+    
+}
+.Flex-box p {
+    margin-top: 20px;
+    width: 150px;
+    padding-left: 10px;
+    justify-content:center ;
+    text-align: center;
+}
+.Adad{
+    padding-top: 20px;
+}
+.Delted{
+    display: flex;
+    margin-left: 80px;
+}
+.Delted{
+    margin-top: 20px;
+    width: 250px;
+    padding-left: 10px;
+    justify-content:center ;
+    text-align: center;
+
+
+}
+
+.Delted button{
+    border: none;
+    background-color: rgb(243, 72, 81);
+    color: white;
+    margin-left: 150px;
+}
+.Delted  p{
+    width: 50px;
+}
+.Delted button{
+    margin-top: 5px;
+}
+.DAa{
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 800px;
+    margin-left: 400px;
+}
+.Dadsw{
+    margin-top: 40px;
+    margin-left: 50px;
+    width: 250px;
+
+}
+.Logout{
+    border: none;
+    background-color: red;
+    color: white;
+    width:80px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 18px;
+
+}
+.Logout button {
+    border-radius: 70px;
+    margin-left: 20px;
+    height: 20px;
+}
+.ADsw{
+    margin-left: 20px;
+}
+.ADsw button{
+    height: 40px;
+    width: 80px;
+  
+}
+.Dadsw img{
+    width: 150px;
+}

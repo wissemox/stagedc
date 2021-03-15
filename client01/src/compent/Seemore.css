@@ -1,0 +1,65 @@
+.PRoduct{
+
+    background-color: hsl(247, 86%, 39%);
+    height: 100px;
+}
+.PRoduct button{
+    border: none;
+    background-color: rgb(243, 72, 81);
+    margin-right:800px;
+    margin-top: 20px;
+    height: 50px;
+    width: 150px;
+    color: white;
+}
+.adzdfw{
+    background-color: #f2f2f2;
+    height: 900px;
+}
+.asaqw{
+   padding-top: 250px;
+}
+.ASW button{
+    border: none;
+    background-color: rgb(7, 83, 7);
+    color: white;
+    width: 300px;
+    border-radius: 20px;
+}
+.dww{
+    display: flex;
+    margin-left: 750px;
+
+}
+.dww p{
+    padding-right: 30px;
+}
+.wqa{
+    display: flex;
+    margin-left: 800px;
+}
+.wqa p{
+    padding-left: 40px;
+    padding-top: 5px;
+}
+.wqa h2{
+    font-size: 22px;
+}
+.Modla{
+    
+    border: none;
+    background-color: #636363;
+    color: white;
+    width: 250px;
+    border-radius: 20px;
+    opacity: 60%;
+}
+.Modla:hover{
+    opacity: 100%;
+}
+.adazdf{
+    margin-top: 150px;
+}
+.awasg button{
+    margin-top: 80px;
+}
